@@ -16,7 +16,7 @@ jobs:
 
       - name: Extract SoulTalk project
         run: |
-          unzip -o SoulTalk_FINAL_READY_v41.zip
+          unzip -o SoulTalk_FINAL_READY_v42.zip
           ls -la
           ls -la SoulTalk_v30/SoulTalk_v3
 
